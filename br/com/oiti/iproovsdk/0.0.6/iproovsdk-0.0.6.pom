@@ -51,36 +51,6 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>br.com.oiti</groupId>
-      <artifactId>di</artifactId>
-      <version>0.0.6</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>br.com.oiti</groupId>
-      <artifactId>core</artifactId>
-      <version>0.0.6</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>br.com.oiti</groupId>
-      <artifactId>domain</artifactId>
-      <version>0.0.6</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>br.com.oiti</groupId>
-      <artifactId>designsystem</artifactId>
-      <version>0.0.6</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>br.com.oiti</groupId>
-      <artifactId>utils</artifactId>
-      <version>0.0.6</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
       <groupId>org.jetbrains.kotlin</groupId>
       <artifactId>kotlin-stdlib</artifactId>
       <version>2.1.10</version>
@@ -205,6 +175,36 @@
       <groupId>com.google.accompanist</groupId>
       <artifactId>accompanist-permissions</artifactId>
       <version>0.36.0</version>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>br.com.oiti</groupId>
+      <artifactId>di</artifactId>
+      <version>0.0.6</version>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>br.com.oiti</groupId>
+      <artifactId>core</artifactId>
+      <version>0.0.6</version>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>br.com.oiti</groupId>
+      <artifactId>domain</artifactId>
+      <version>0.0.6</version>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>br.com.oiti</groupId>
+      <artifactId>designsystem</artifactId>
+      <version>0.0.6</version>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>br.com.oiti</groupId>
+      <artifactId>utils</artifactId>
+      <version>0.0.6</version>
       <scope>runtime</scope>
     </dependency>
   </dependencies>
