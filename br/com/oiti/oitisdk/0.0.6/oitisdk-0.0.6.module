@@ -24,76 +24,6 @@
       },
       "dependencies": [
         {
-          "group": "br.com.oiti",
-          "module": "di",
-          "version": {
-            "requires": "0.0.6"
-          }
-        },
-        {
-          "group": "br.com.oiti",
-          "module": "core",
-          "version": {
-            "requires": "0.0.6"
-          }
-        },
-        {
-          "group": "br.com.oiti",
-          "module": "domain",
-          "version": {
-            "requires": "0.0.6"
-          }
-        },
-        {
-          "group": "br.com.oiti",
-          "module": "remote",
-          "version": {
-            "requires": "0.0.6"
-          }
-        },
-        {
-          "group": "br.com.oiti",
-          "module": "network",
-          "version": {
-            "requires": "0.0.6"
-          }
-        },
-        {
-          "group": "br.com.oiti",
-          "module": "designsystem",
-          "version": {
-            "requires": "0.0.6"
-          }
-        },
-        {
-          "group": "br.com.oiti",
-          "module": "utils",
-          "version": {
-            "requires": "0.0.6"
-          }
-        },
-        {
-          "group": "br.com.oiti",
-          "module": "logging",
-          "version": {
-            "requires": "0.0.6"
-          }
-        },
-        {
-          "group": "br.com.oiti",
-          "module": "data",
-          "version": {
-            "requires": "0.0.6"
-          }
-        },
-        {
-          "group": "br.com.oiti",
-          "module": "iproovsdk",
-          "version": {
-            "requires": "0.0.6"
-          }
-        },
-        {
           "group": "androidx.databinding",
           "module": "viewbinding",
           "version": {
@@ -325,6 +255,7 @@
         "org.gradle.dependency.bundling": "external",
         "org.gradle.docstype": "sources",
         "org.gradle.jvm.environment": "android",
+        "org.gradle.libraryelements": "jar",
         "org.gradle.usage": "java-runtime",
         "org.jetbrains.kotlin.platform.type": "androidJvm"
       },

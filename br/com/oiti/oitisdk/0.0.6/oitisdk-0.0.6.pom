@@ -45,66 +45,6 @@
   </dependencyManagement>
   <dependencies>
     <dependency>
-      <groupId>br.com.oiti</groupId>
-      <artifactId>di</artifactId>
-      <version>0.0.6</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>br.com.oiti</groupId>
-      <artifactId>core</artifactId>
-      <version>0.0.6</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>br.com.oiti</groupId>
-      <artifactId>domain</artifactId>
-      <version>0.0.6</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>br.com.oiti</groupId>
-      <artifactId>remote</artifactId>
-      <version>0.0.6</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>br.com.oiti</groupId>
-      <artifactId>network</artifactId>
-      <version>0.0.6</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>br.com.oiti</groupId>
-      <artifactId>designsystem</artifactId>
-      <version>0.0.6</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>br.com.oiti</groupId>
-      <artifactId>utils</artifactId>
-      <version>0.0.6</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>br.com.oiti</groupId>
-      <artifactId>logging</artifactId>
-      <version>0.0.6</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>br.com.oiti</groupId>
-      <artifactId>data</artifactId>
-      <version>0.0.6</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>br.com.oiti</groupId>
-      <artifactId>iproovsdk</artifactId>
-      <version>0.0.6</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
       <groupId>androidx.databinding</groupId>
       <artifactId>viewbinding</artifactId>
       <version>8.9.2</version>
@@ -189,6 +129,66 @@
       <groupId>com.squareup.okhttp3</groupId>
       <artifactId>logging-interceptor</artifactId>
       <version>4.12.0</version>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>br.com.oiti</groupId>
+      <artifactId>di</artifactId>
+      <version>0.0.6</version>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>br.com.oiti</groupId>
+      <artifactId>core</artifactId>
+      <version>0.0.6</version>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>br.com.oiti</groupId>
+      <artifactId>domain</artifactId>
+      <version>0.0.6</version>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>br.com.oiti</groupId>
+      <artifactId>remote</artifactId>
+      <version>0.0.6</version>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>br.com.oiti</groupId>
+      <artifactId>network</artifactId>
+      <version>0.0.6</version>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>br.com.oiti</groupId>
+      <artifactId>designsystem</artifactId>
+      <version>0.0.6</version>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>br.com.oiti</groupId>
+      <artifactId>utils</artifactId>
+      <version>0.0.6</version>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>br.com.oiti</groupId>
+      <artifactId>logging</artifactId>
+      <version>0.0.6</version>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>br.com.oiti</groupId>
+      <artifactId>data</artifactId>
+      <version>0.0.6</version>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>br.com.oiti</groupId>
+      <artifactId>iproovsdk</artifactId>
+      <version>0.0.6</version>
       <scope>runtime</scope>
     </dependency>
   </dependencies>
