@@ -24,20 +24,6 @@
       },
       "dependencies": [
         {
-          "group": "br.com.oiti",
-          "module": "designsystem",
-          "version": {
-            "requires": "0.0.6"
-          }
-        },
-        {
-          "group": "br.com.oiti",
-          "module": "utils",
-          "version": {
-            "requires": "0.0.6"
-          }
-        },
-        {
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib",
           "version": {
