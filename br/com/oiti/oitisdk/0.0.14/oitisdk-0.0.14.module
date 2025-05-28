@@ -1,0 +1,345 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "br.com.oiti",
+    "module": "oitisdk",
+    "version": "0.0.14",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.13"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseApiElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.jvm.environment": "android",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "androidJvm"
+      },
+      "dependencies": [
+        {
+          "group": "br.com.oiti",
+          "module": "di",
+          "version": {
+            "requires": "0.0.14"
+          }
+        },
+        {
+          "group": "br.com.oiti",
+          "module": "core",
+          "version": {
+            "requires": "0.0.14"
+          }
+        },
+        {
+          "group": "br.com.oiti",
+          "module": "domain",
+          "version": {
+            "requires": "0.0.14"
+          }
+        },
+        {
+          "group": "br.com.oiti",
+          "module": "remote",
+          "version": {
+            "requires": "0.0.14"
+          }
+        },
+        {
+          "group": "br.com.oiti",
+          "module": "oiti-network",
+          "version": {
+            "requires": "0.0.14"
+          }
+        },
+        {
+          "group": "br.com.oiti",
+          "module": "designsystem",
+          "version": {
+            "requires": "0.0.14"
+          }
+        },
+        {
+          "group": "br.com.oiti",
+          "module": "utils",
+          "version": {
+            "requires": "0.0.14"
+          }
+        },
+        {
+          "group": "br.com.oiti",
+          "module": "logging",
+          "version": {
+            "requires": "0.0.14"
+          }
+        },
+        {
+          "group": "br.com.oiti",
+          "module": "data",
+          "version": {
+            "requires": "0.0.14"
+          }
+        },
+        {
+          "group": "br.com.oiti",
+          "module": "iproovsdk",
+          "version": {
+            "requires": "0.0.14"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "viewbinding",
+          "version": {
+            "requires": "8.9.2"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.1.10"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "oitisdk-0.0.14.aar",
+          "url": "oitisdk-0.0.14.aar",
+          "size": 48717,
+          "sha512": "00c51254b979c15bfd751c800ffe9cf8b0736eb68ea680e138521d67d5ed6b31416e55c94417296cc06beb481d19bb6f337331c5d10a918045d5da9ad4521d18",
+          "sha256": "cba6b4da8dfd5686f6d181fe3be08d85f52d46f389440fb58152088417b24fae",
+          "sha1": "ca2dd6bef5610173227d6c24096ac2155061c359",
+          "md5": "2b9f9c5d6210b1633d4e6f037dd4aca7"
+        }
+      ]
+    },
+    {
+      "name": "releaseRuntimeElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.jvm.environment": "android",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "androidJvm"
+      },
+      "dependencies": [
+        {
+          "group": "androidx.core",
+          "module": "core-ktx",
+          "version": {
+            "requires": "1.16.0"
+          }
+        },
+        {
+          "group": "androidx.appcompat",
+          "module": "appcompat",
+          "version": {
+            "requires": "1.7.0"
+          }
+        },
+        {
+          "group": "com.google.android.material",
+          "module": "material",
+          "version": {
+            "requires": "1.12.0"
+          }
+        },
+        {
+          "group": "com.google.dagger",
+          "module": "dagger",
+          "version": {
+            "requires": "2.56.1"
+          }
+        },
+        {
+          "group": "com.google.dagger",
+          "module": "dagger-android",
+          "version": {
+            "requires": "2.56.1"
+          }
+        },
+        {
+          "group": "com.google.dagger",
+          "module": "dagger-android-support",
+          "version": {
+            "requires": "2.56.1"
+          }
+        },
+        {
+          "group": "androidx.compose",
+          "module": "compose-bom",
+          "version": {
+            "requires": "2025.05.01"
+          },
+          "attributes": {
+            "org.gradle.category": "platform"
+          }
+        },
+        {
+          "group": "androidx.compose.runtime",
+          "module": "runtime"
+        },
+        {
+          "group": "androidx.compose.runtime",
+          "module": "runtime-livedata"
+        },
+        {
+          "group": "androidx.compose.runtime",
+          "module": "runtime-rxjava2"
+        },
+        {
+          "group": "com.squareup.retrofit2",
+          "module": "retrofit",
+          "version": {
+            "requires": "2.11.0"
+          }
+        },
+        {
+          "group": "com.squareup.retrofit2",
+          "module": "converter-gson",
+          "version": {
+            "requires": "2.11.0"
+          }
+        },
+        {
+          "group": "com.squareup.okhttp3",
+          "module": "okhttp",
+          "version": {
+            "requires": "4.12.0"
+          }
+        },
+        {
+          "group": "com.squareup.okhttp3",
+          "module": "logging-interceptor",
+          "version": {
+            "requires": "4.12.0"
+          }
+        },
+        {
+          "group": "br.com.oiti",
+          "module": "di",
+          "version": {
+            "requires": "0.0.14"
+          }
+        },
+        {
+          "group": "br.com.oiti",
+          "module": "core",
+          "version": {
+            "requires": "0.0.14"
+          }
+        },
+        {
+          "group": "br.com.oiti",
+          "module": "domain",
+          "version": {
+            "requires": "0.0.14"
+          }
+        },
+        {
+          "group": "br.com.oiti",
+          "module": "remote",
+          "version": {
+            "requires": "0.0.14"
+          }
+        },
+        {
+          "group": "br.com.oiti",
+          "module": "oiti-network",
+          "version": {
+            "requires": "0.0.14"
+          }
+        },
+        {
+          "group": "br.com.oiti",
+          "module": "designsystem",
+          "version": {
+            "requires": "0.0.14"
+          }
+        },
+        {
+          "group": "br.com.oiti",
+          "module": "utils",
+          "version": {
+            "requires": "0.0.14"
+          }
+        },
+        {
+          "group": "br.com.oiti",
+          "module": "logging",
+          "version": {
+            "requires": "0.0.14"
+          }
+        },
+        {
+          "group": "br.com.oiti",
+          "module": "data",
+          "version": {
+            "requires": "0.0.14"
+          }
+        },
+        {
+          "group": "br.com.oiti",
+          "module": "iproovsdk",
+          "version": {
+            "requires": "0.0.14"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "viewbinding",
+          "version": {
+            "requires": "8.9.2"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.1.10"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "oitisdk-0.0.14.aar",
+          "url": "oitisdk-0.0.14.aar",
+          "size": 48717,
+          "sha512": "00c51254b979c15bfd751c800ffe9cf8b0736eb68ea680e138521d67d5ed6b31416e55c94417296cc06beb481d19bb6f337331c5d10a918045d5da9ad4521d18",
+          "sha256": "cba6b4da8dfd5686f6d181fe3be08d85f52d46f389440fb58152088417b24fae",
+          "sha1": "ca2dd6bef5610173227d6c24096ac2155061c359",
+          "md5": "2b9f9c5d6210b1633d4e6f037dd4aca7"
+        }
+      ]
+    },
+    {
+      "name": "releaseSourcesElements-published",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.jvm.environment": "android",
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "androidJvm"
+      },
+      "files": [
+        {
+          "name": "oitisdk-0.0.14-sources.jar",
+          "url": "oitisdk-0.0.14-sources.jar",
+          "size": 24374,
+          "sha512": "2bbc085ae1e381a7eac4b0cfb383606009003bcfc10e43d85355fb102d74c718b5a22742e875ec741bc4b002c79edda1c5295e8f2425c32595de5fa3b521c2d8",
+          "sha256": "8124566b07c8350a527b84ee6f9a09fecbc5952e0c5a2edf68f1c6f2e9fae5af",
+          "sha1": "e5132832e7e7bf32637217ebeb6d3227fea69e03",
+          "md5": "cfabe24ca6c87adecbed405c3ecf913e"
+        }
+      ]
+    }
+  ]
+}
