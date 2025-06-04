@@ -3,8 +3,8 @@
   <groupId>br.com.oiti</groupId>
   <artifactId>core</artifactId>
   <versioning>
-    <latest>0.0.14-ofuscated-test-6</latest>
-    <release>0.0.14-ofuscated-test-6</release>
+    <latest>0.0.14-ofuscated-test-7</latest>
+    <release>0.0.14-ofuscated-test-7</release>
     <versions>
       <version>0.0.1</version>
       <version>0.0.1-snapshot</version>
@@ -27,7 +27,8 @@
       <version>0.0.14-ofuscated-test-4</version>
       <version>0.0.14-ofuscated-test-5</version>
       <version>0.0.14-ofuscated-test-6</version>
+      <version>0.0.14-ofuscated-test-7</version>
     </versions>
-    <lastUpdated>20250604193011</lastUpdated>
+    <lastUpdated>20250604200028</lastUpdated>
   </versioning>
 </metadata>
