@@ -42,11 +42,11 @@
         {
           "name": "iproovsdk-0.0.14-ofuscated-test-9.aar",
           "url": "iproovsdk-0.0.14-ofuscated-test-9.aar",
-          "size": 87817,
-          "sha512": "fc441fef443a03b2a5f4f4ccce42f1364cff74b3c732da3eb15b34789061fb4591b28da9d1672568503f746a2e2359c0c6e2766fb2fa3763e634cec641d18203",
-          "sha256": "829dbbe1b284bc610d52be349b7983f1818043883b52c9ae0d97a59c6c1ca9ca",
-          "sha1": "88d79dcbe31b3d79a8e99b918c2ee7815ea7b3b1",
-          "md5": "b396ee185db8ab04bad6521b15eaa7fb"
+          "size": 234686,
+          "sha512": "ca04557f9e5b40bb5d47befdc55cbaee03576b99db09842a32ec658231084be3c7160c799cb5efa1542a8511aa20a43653a6b96000a90c3dc91ba9e0d294ae08",
+          "sha256": "dd2aab89e2f96c11a26f98699a86690a037472a27f51ada264a6bb09cea8ef4b",
+          "sha1": "7121ab443cc300dd9d51e0c638a178dd9df07deb",
+          "md5": "6b57bf5204eeba1db9c595c31b77bf9f"
         }
       ]
     },
@@ -70,7 +70,7 @@
           "group": "androidx.appcompat",
           "module": "appcompat",
           "version": {
-            "requires": "1.7.0"
+            "requires": "1.7.1"
           }
         },
         {
@@ -84,7 +84,7 @@
           "group": "androidx.lifecycle",
           "module": "lifecycle-runtime-ktx",
           "version": {
-            "requires": "2.9.0"
+            "requires": "2.9.1"
           }
         },
         {
@@ -120,7 +120,7 @@
           "group": "androidx.compose",
           "module": "compose-bom",
           "version": {
-            "requires": "2025.05.01"
+            "requires": "2025.06.00"
           },
           "attributes": {
             "org.gradle.category": "platform"
@@ -184,14 +184,14 @@
           "group": "androidx.lifecycle",
           "module": "lifecycle-runtime-compose",
           "version": {
-            "requires": "2.9.0"
+            "requires": "2.9.1"
           }
         },
         {
           "group": "androidx.lifecycle",
           "module": "lifecycle-viewmodel-compose",
           "version": {
-            "requires": "2.9.0"
+            "requires": "2.9.1"
           }
         },
         {
@@ -255,11 +255,11 @@
         {
           "name": "iproovsdk-0.0.14-ofuscated-test-9.aar",
           "url": "iproovsdk-0.0.14-ofuscated-test-9.aar",
-          "size": 87817,
-          "sha512": "fc441fef443a03b2a5f4f4ccce42f1364cff74b3c732da3eb15b34789061fb4591b28da9d1672568503f746a2e2359c0c6e2766fb2fa3763e634cec641d18203",
-          "sha256": "829dbbe1b284bc610d52be349b7983f1818043883b52c9ae0d97a59c6c1ca9ca",
-          "sha1": "88d79dcbe31b3d79a8e99b918c2ee7815ea7b3b1",
-          "md5": "b396ee185db8ab04bad6521b15eaa7fb"
+          "size": 234686,
+          "sha512": "ca04557f9e5b40bb5d47befdc55cbaee03576b99db09842a32ec658231084be3c7160c799cb5efa1542a8511aa20a43653a6b96000a90c3dc91ba9e0d294ae08",
+          "sha256": "dd2aab89e2f96c11a26f98699a86690a037472a27f51ada264a6bb09cea8ef4b",
+          "sha1": "7121ab443cc300dd9d51e0c638a178dd9df07deb",
+          "md5": "6b57bf5204eeba1db9c595c31b77bf9f"
         }
       ]
     },
