@@ -27,7 +27,7 @@
           "group": "androidx.databinding",
           "module": "viewbinding",
           "version": {
-            "requires": "8.9.2"
+            "requires": "8.9.3"
           }
         },
         {
@@ -70,7 +70,7 @@
           "group": "androidx.appcompat",
           "module": "appcompat",
           "version": {
-            "requires": "1.7.0"
+            "requires": "1.7.1"
           }
         },
         {
@@ -175,7 +175,7 @@
           "group": "androidx.compose",
           "module": "compose-bom",
           "version": {
-            "requires": "2025.05.01"
+            "requires": "2025.06.00"
           },
           "attributes": {
             "org.gradle.category": "platform"
@@ -192,14 +192,14 @@
           "group": "androidx.lifecycle",
           "module": "lifecycle-viewmodel-compose",
           "version": {
-            "requires": "2.9.0"
+            "requires": "2.9.1"
           }
         },
         {
           "group": "androidx.databinding",
           "module": "viewbinding",
           "version": {
-            "requires": "8.9.2"
+            "requires": "8.9.3"
           }
         },
         {
