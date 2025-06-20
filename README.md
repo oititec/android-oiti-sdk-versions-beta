@@ -15,14 +15,14 @@ Visite o sumário abaixo e conheça sobre as documentações de uso e integraç�
 
 ### App de Exemplo
 
-Um exemplo de implementação pode ser encontrado no projeto [Oiti-Sdk](https://github.com/oititec/oiti-sdk-demo)
+Um exemplo de implementação pode ser encontrado no projeto Oiti-Sdk-Demo ou clicando [aqui](https://github.com/oititec/oiti-sdk-demo).
 
 --- 
 Neste repositório encontre também as release notes.
 
 ### Changelog
 
-- Acompanhe as novidades das versões do Oiti-Sdk [aqui]().
+- Acompanhe as novidades das versões do Oiti-Sdk pelo Devcenter ou clicando [aqui]().
 
 ---
 ### Saiba mais
