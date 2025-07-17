@@ -1,0 +1,176 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "br.com.oiti",
+    "module": "oiti-network",
+    "version": "0.0.19",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.14.3"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseApiElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.jvm.environment": "android",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "androidJvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.1.10"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "oiti-network-0.0.19.aar",
+          "url": "oiti-network-0.0.19.aar",
+          "size": 39236,
+          "sha512": "0887d7434182a3d69098efe49a5b0f3f7e9ee8e570ff595eeabfb7fe55cafc83d7adb94acf46ff9bca18d280866457fd7efaeb6669fd0bb57d0a5d4d5bcd7193",
+          "sha256": "3505de966f0b00c0332358c57f108a3302efb22ada0c96c16e02c583ac0e5602",
+          "sha1": "30606a9da26b8820c11f8e4fd7191d184a8fcc29",
+          "md5": "a1617afc17a1ddaa1dd7e55a2ba280bd"
+        }
+      ]
+    },
+    {
+      "name": "releaseRuntimeElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.jvm.environment": "android",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "androidJvm"
+      },
+      "dependencies": [
+        {
+          "group": "androidx.core",
+          "module": "core-ktx",
+          "version": {
+            "requires": "1.16.0"
+          }
+        },
+        {
+          "group": "androidx.appcompat",
+          "module": "appcompat",
+          "version": {
+            "requires": "1.7.1"
+          }
+        },
+        {
+          "group": "com.google.android.material",
+          "module": "material",
+          "version": {
+            "requires": "1.12.0"
+          }
+        },
+        {
+          "group": "com.google.dagger",
+          "module": "dagger",
+          "version": {
+            "requires": "2.56.2"
+          }
+        },
+        {
+          "group": "com.google.dagger",
+          "module": "dagger-android",
+          "version": {
+            "requires": "2.56.2"
+          }
+        },
+        {
+          "group": "com.google.dagger",
+          "module": "dagger-android-support",
+          "version": {
+            "requires": "2.56.2"
+          }
+        },
+        {
+          "group": "com.squareup.retrofit2",
+          "module": "retrofit",
+          "version": {
+            "requires": "3.0.0"
+          }
+        },
+        {
+          "group": "com.squareup.retrofit2",
+          "module": "converter-gson",
+          "version": {
+            "requires": "3.0.0"
+          }
+        },
+        {
+          "group": "com.squareup.okhttp3",
+          "module": "okhttp",
+          "version": {
+            "requires": "5.1.0"
+          }
+        },
+        {
+          "group": "com.squareup.okhttp3",
+          "module": "logging-interceptor",
+          "version": {
+            "requires": "5.1.0"
+          }
+        },
+        {
+          "group": "br.com.oiti",
+          "module": "core",
+          "version": {
+            "requires": "0.0.19"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.1.10"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "oiti-network-0.0.19.aar",
+          "url": "oiti-network-0.0.19.aar",
+          "size": 39236,
+          "sha512": "0887d7434182a3d69098efe49a5b0f3f7e9ee8e570ff595eeabfb7fe55cafc83d7adb94acf46ff9bca18d280866457fd7efaeb6669fd0bb57d0a5d4d5bcd7193",
+          "sha256": "3505de966f0b00c0332358c57f108a3302efb22ada0c96c16e02c583ac0e5602",
+          "sha1": "30606a9da26b8820c11f8e4fd7191d184a8fcc29",
+          "md5": "a1617afc17a1ddaa1dd7e55a2ba280bd"
+        }
+      ]
+    },
+    {
+      "name": "releaseSourcesElements-published",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.jvm.environment": "android",
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "androidJvm"
+      },
+      "files": [
+        {
+          "name": "oiti-network-0.0.19-sources.jar",
+          "url": "oiti-network-0.0.19-sources.jar",
+          "size": 22857,
+          "sha512": "d8858e4bcb80f5a1f20c1d30e1b272a40c7830f1c574f57f9aab20f28183e1ff0332a7c5ff85fa7382236b2cc6464fc93b2da808bf88e76e7a64e1dcd2ab567e",
+          "sha256": "878c1046f86ba2b52816f1399cb7e0b542029cbed2b077b1fbe6ea6dc1c23752",
+          "sha1": "19ed5fea66cdf3d4b3026b1d073504bf06014860",
+          "md5": "46c18d3d67f28d6dfa2a0f3e77f0585e"
+        }
+      ]
+    }
+  ]
+}
