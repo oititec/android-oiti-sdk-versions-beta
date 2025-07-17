@@ -3,8 +3,8 @@
   <groupId>br.com.oiti</groupId>
   <artifactId>logging</artifactId>
   <versioning>
-    <latest>0.0.18</latest>
-    <release>0.0.18</release>
+    <latest>0.0.18-test</latest>
+    <release>0.0.18-test</release>
     <versions>
       <version>0.0.1</version>
       <version>0.0.1-snapshot</version>
@@ -32,7 +32,8 @@
       <version>0.0.14-ofuscated-test-9</version>
       <version>0.0.15</version>
       <version>0.0.18</version>
+      <version>0.0.18-test</version>
     </versions>
-    <lastUpdated>20250717015139</lastUpdated>
+    <lastUpdated>20250717133328</lastUpdated>
   </versioning>
 </metadata>
