@@ -77,11 +77,11 @@
         {
           "name": "oitisdk-0.0.18-test.aar",
           "url": "oitisdk-0.0.18-test.aar",
-          "size": 77690,
-          "sha512": "20563c87c1d2771fa6b8416fdac5f593883e452b7187c8209d0f59e592a6b05c6bc99638a37f081f9ddf0b5509b142906568b41bb9c9361e4104dacf0def0a19",
-          "sha256": "b7f9ec50952648fe06b8e979782c22753412c23184f93197df22afaa3686ec5e",
-          "sha1": "055b5753835aad3acc340f37ae2b0df3a223e255",
-          "md5": "856d883d8f5ec009d9cc80e8bae0761e"
+          "size": 53820,
+          "sha512": "a649d8edc2fcafbd8e269619dacc80dbbefd17667cf5fdd11fe94fae9332d2f0768e5a7c6a4ae3b9b70bea14f458763aee2a4daecd8978c1af9b945115455291",
+          "sha256": "cff41d226a7493c43e6202b78d3be2eff7c951564bd828487a6f050666d0e233",
+          "sha1": "3be8d1e034a3c1c52201fcb1a154fe4e14dfbf05",
+          "md5": "09b2939e3dc09d8c235df52c5b6c0558"
         }
       ]
     },
@@ -282,11 +282,11 @@
         {
           "name": "oitisdk-0.0.18-test.aar",
           "url": "oitisdk-0.0.18-test.aar",
-          "size": 77690,
-          "sha512": "20563c87c1d2771fa6b8416fdac5f593883e452b7187c8209d0f59e592a6b05c6bc99638a37f081f9ddf0b5509b142906568b41bb9c9361e4104dacf0def0a19",
-          "sha256": "b7f9ec50952648fe06b8e979782c22753412c23184f93197df22afaa3686ec5e",
-          "sha1": "055b5753835aad3acc340f37ae2b0df3a223e255",
-          "md5": "856d883d8f5ec009d9cc80e8bae0761e"
+          "size": 53820,
+          "sha512": "a649d8edc2fcafbd8e269619dacc80dbbefd17667cf5fdd11fe94fae9332d2f0768e5a7c6a4ae3b9b70bea14f458763aee2a4daecd8978c1af9b945115455291",
+          "sha256": "cff41d226a7493c43e6202b78d3be2eff7c951564bd828487a6f050666d0e233",
+          "sha1": "3be8d1e034a3c1c52201fcb1a154fe4e14dfbf05",
+          "md5": "09b2939e3dc09d8c235df52c5b6c0558"
         }
       ]
     },
