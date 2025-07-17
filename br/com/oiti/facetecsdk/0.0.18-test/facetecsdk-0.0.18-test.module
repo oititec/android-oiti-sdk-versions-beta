@@ -42,11 +42,11 @@
         {
           "name": "facetecsdk-0.0.18-test.aar",
           "url": "facetecsdk-0.0.18-test.aar",
-          "size": 433618,
-          "sha512": "b2e94f5ed71ac7fff51fe0f29d1ed304fbd1e25e319082eb2c67543f28004c3b9f800b011456964f0d0f1eeb3d50ce4174e52e783a0ad85eb0680484d42c2f30",
-          "sha256": "5ede1ffef805d5cb0d092a4a8e6a92607383be0fe97c7270299b9e64053849ed",
-          "sha1": "d873bf6215fff66ca39d54d2c9885a030668d4ba",
-          "md5": "6fe14851d89899110ad3fed3f8a81f6e"
+          "size": 388814,
+          "sha512": "85ce80f482c89736becc7fc193f21b3d1d03c629eb493b79d15415481fbda23d420887bb67772a4189f324b149c4e15359337b43698407e0008d237936138f28",
+          "sha256": "61a3075b387cac428bbc36eb8acb4d08f5945eacdee767095a1971fbc2bfabef",
+          "sha1": "8d8cd382a72c962bd07370a7565ac1c38e5419d5",
+          "md5": "57f3c9ef1a53f06c3d31a17f0048fd7e"
         }
       ]
     },
@@ -283,11 +283,11 @@
         {
           "name": "facetecsdk-0.0.18-test.aar",
           "url": "facetecsdk-0.0.18-test.aar",
-          "size": 433618,
-          "sha512": "b2e94f5ed71ac7fff51fe0f29d1ed304fbd1e25e319082eb2c67543f28004c3b9f800b011456964f0d0f1eeb3d50ce4174e52e783a0ad85eb0680484d42c2f30",
-          "sha256": "5ede1ffef805d5cb0d092a4a8e6a92607383be0fe97c7270299b9e64053849ed",
-          "sha1": "d873bf6215fff66ca39d54d2c9885a030668d4ba",
-          "md5": "6fe14851d89899110ad3fed3f8a81f6e"
+          "size": 388814,
+          "sha512": "85ce80f482c89736becc7fc193f21b3d1d03c629eb493b79d15415481fbda23d420887bb67772a4189f324b149c4e15359337b43698407e0008d237936138f28",
+          "sha256": "61a3075b387cac428bbc36eb8acb4d08f5945eacdee767095a1971fbc2bfabef",
+          "sha1": "8d8cd382a72c962bd07370a7565ac1c38e5419d5",
+          "md5": "57f3c9ef1a53f06c3d31a17f0048fd7e"
         }
       ]
     },
