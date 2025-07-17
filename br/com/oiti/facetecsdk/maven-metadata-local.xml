@@ -3,11 +3,12 @@
   <groupId>br.com.oiti</groupId>
   <artifactId>facetecsdk</artifactId>
   <versioning>
-    <latest>0.0.18</latest>
-    <release>0.0.18</release>
+    <latest>0.0.18-test</latest>
+    <release>0.0.18-test</release>
     <versions>
       <version>0.0.18</version>
+      <version>0.0.18-test</version>
     </versions>
-    <lastUpdated>20250717015142</lastUpdated>
+    <lastUpdated>20250717133335</lastUpdated>
   </versioning>
 </metadata>
