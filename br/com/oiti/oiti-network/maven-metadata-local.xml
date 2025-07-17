@@ -3,8 +3,8 @@
   <groupId>br.com.oiti</groupId>
   <artifactId>oiti-network</artifactId>
   <versioning>
-    <latest>0.0.18-test</latest>
-    <release>0.0.18-test</release>
+    <latest>0.0.18</latest>
+    <release>0.0.18</release>
     <versions>
       <version>0.0.10</version>
       <version>0.0.11</version>
@@ -24,6 +24,6 @@
       <version>0.0.18</version>
       <version>0.0.18-test</version>
     </versions>
-    <lastUpdated>20250717144926</lastUpdated>
+    <lastUpdated>20250717150052</lastUpdated>
   </versioning>
 </metadata>
