@@ -3,12 +3,13 @@
   <groupId>br.com.certiface</groupId>
   <artifactId>certiface-network</artifactId>
   <versioning>
-    <latest>1.2.0</latest>
-    <release>1.2.0</release>
+    <latest>1.2.1-iproov-snapshot</latest>
+    <release>1.2.1-iproov-snapshot</release>
     <versions>
       <version>1.1.0-snapshot-2</version>
       <version>1.2.0</version>
+      <version>1.2.1-iproov-snapshot</version>
     </versions>
-    <lastUpdated>20260429183218</lastUpdated>
+    <lastUpdated>20260507172204</lastUpdated>
   </versioning>
 </metadata>
