@@ -113,7 +113,7 @@
     </dependency>
     <dependency>
       <groupId>br.com.certiface</groupId>
-      <artifactId>certiface-network</artifactId>
+      <artifactId>network</artifactId>
       <version>1.2.0</version>
       <scope>runtime</scope>
     </dependency>
