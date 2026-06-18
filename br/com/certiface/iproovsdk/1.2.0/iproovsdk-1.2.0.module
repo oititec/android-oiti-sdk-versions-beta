@@ -42,11 +42,11 @@
         {
           "name": "iproovsdk-1.2.0.aar",
           "url": "iproovsdk-1.2.0.aar",
-          "size": 329533,
-          "sha512": "ae3da0d5c8f295d74a2ae971090748a0375990ccc57f584c913e764a9728dda26ad93e7bd6f7896698300ba76b749131e9054d390158fe169fe567b0176b4076",
-          "sha256": "15efd5f7b31f95ac1dce778f326663d1f461aa49df2852e66477a159099b55ea",
-          "sha1": "e10823b7a6c6cf9feabde8821b6a4cb4ccc51a43",
-          "md5": "00862fb57478ec205baf159b2f2a2d56"
+          "size": 328740,
+          "sha512": "7aad99d58442623201a8195fabd284ce28e7559026232befea28b79bca91b394f6b1f8baf21e877fbf893bfbd26a3811e7a591a7c9c434b095808ad3cc45153e",
+          "sha256": "12961360eb921b0b90dfe63df004c85d0b78e2d1dc726b51b696020180274315",
+          "sha1": "f82ec889c556aa04d1e20b8b918fd2da0fe6ca89",
+          "md5": "c755cb3accf5ebde474f7e6cffe14e4b"
         }
       ]
     },
@@ -290,11 +290,11 @@
         {
           "name": "iproovsdk-1.2.0.aar",
           "url": "iproovsdk-1.2.0.aar",
-          "size": 329533,
-          "sha512": "ae3da0d5c8f295d74a2ae971090748a0375990ccc57f584c913e764a9728dda26ad93e7bd6f7896698300ba76b749131e9054d390158fe169fe567b0176b4076",
-          "sha256": "15efd5f7b31f95ac1dce778f326663d1f461aa49df2852e66477a159099b55ea",
-          "sha1": "e10823b7a6c6cf9feabde8821b6a4cb4ccc51a43",
-          "md5": "00862fb57478ec205baf159b2f2a2d56"
+          "size": 328740,
+          "sha512": "7aad99d58442623201a8195fabd284ce28e7559026232befea28b79bca91b394f6b1f8baf21e877fbf893bfbd26a3811e7a591a7c9c434b095808ad3cc45153e",
+          "sha256": "12961360eb921b0b90dfe63df004c85d0b78e2d1dc726b51b696020180274315",
+          "sha1": "f82ec889c556aa04d1e20b8b918fd2da0fe6ca89",
+          "md5": "c755cb3accf5ebde474f7e6cffe14e4b"
         }
       ]
     },
@@ -310,11 +310,11 @@
         {
           "name": "iproovsdk-1.2.0-sources.jar",
           "url": "iproovsdk-1.2.0-sources.jar",
-          "size": 55706,
-          "sha512": "10a41000148e7506c330162cbac1c2327c5d1451817b6569f9c500eb101ff6fe046db94eda3542abc49593b6a17753b9f716ad8b482f001737579494146920d0",
-          "sha256": "920f5790a7e66df4910535a4bc598624a6c4d3e309b598ddca81ee26269e1287",
-          "sha1": "1a45ab0b744630ba18f5bf543181fce238a3b957",
-          "md5": "4c6be935cf54f7bb40222f5650482240"
+          "size": 55576,
+          "sha512": "049c495904f20cb8dd6b13bb14883a9500fbbb98e3d9da6429605aeadcaff7b96111bc5160782b1a848739cf30c793b327cf70291ee33542580746608ccacbe8",
+          "sha256": "90c779643a5bfaaf15203c89f9a876099ca9506cc05774609c768e25bfa2d264",
+          "sha1": "e8ddc61d91d35134a8a9db4a4153439c6d4cebc9",
+          "md5": "caf9630380bf08019e1378a57e0ad60c"
         }
       ]
     }
