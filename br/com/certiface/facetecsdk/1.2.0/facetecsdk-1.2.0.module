@@ -27,7 +27,7 @@
           "group": "com.facetec",
           "module": "sdk",
           "version": {
-            "requires": "10.0.46"
+            "requires": "9.7.126"
           }
         },
         {
@@ -42,11 +42,11 @@
         {
           "name": "facetecsdk-1.2.0.aar",
           "url": "facetecsdk-1.2.0.aar",
-          "size": 579290,
-          "sha512": "720e009902ad8039cdbe14e93da88c3b167681537ef9d7636dee01dd718fa784e7f872ec90e69d9c587e0e5aa372fc9e85865e6a3ab3e8b07d667b5c1dc390fc",
-          "sha256": "0d8eea6ad0511e011dffb7e823c423e97efc3f64baa4ecea2259479905106ebd",
-          "sha1": "cd32145d781c1fe8dd7901616e45ef8ee376a4b3",
-          "md5": "8ef14b79f994479f3e82b0fa3c68464b"
+          "size": 597534,
+          "sha512": "22bbaa1609fc248f448dd7eeb835b80164cdee9689a4471e260f590ebed0ae04028dc5f722f3e3598861524cba24654b41a364e7427107f962661ac08d4dcd4a",
+          "sha256": "40e96bc3a9934476247e2d8db76939ffb3951a33d894e070fb8777f091f7a1f0",
+          "sha1": "f202938fda62e7fb0eb09e2d3306a42e4df962ac",
+          "md5": "4d3811bdd6a8d22d9d429d0f6e90a0dd"
         }
       ]
     },
@@ -282,7 +282,7 @@
           "group": "com.facetec",
           "module": "sdk",
           "version": {
-            "requires": "10.0.46"
+            "requires": "9.7.126"
           }
         },
         {
@@ -297,11 +297,11 @@
         {
           "name": "facetecsdk-1.2.0.aar",
           "url": "facetecsdk-1.2.0.aar",
-          "size": 579290,
-          "sha512": "720e009902ad8039cdbe14e93da88c3b167681537ef9d7636dee01dd718fa784e7f872ec90e69d9c587e0e5aa372fc9e85865e6a3ab3e8b07d667b5c1dc390fc",
-          "sha256": "0d8eea6ad0511e011dffb7e823c423e97efc3f64baa4ecea2259479905106ebd",
-          "sha1": "cd32145d781c1fe8dd7901616e45ef8ee376a4b3",
-          "md5": "8ef14b79f994479f3e82b0fa3c68464b"
+          "size": 597534,
+          "sha512": "22bbaa1609fc248f448dd7eeb835b80164cdee9689a4471e260f590ebed0ae04028dc5f722f3e3598861524cba24654b41a364e7427107f962661ac08d4dcd4a",
+          "sha256": "40e96bc3a9934476247e2d8db76939ffb3951a33d894e070fb8777f091f7a1f0",
+          "sha1": "f202938fda62e7fb0eb09e2d3306a42e4df962ac",
+          "md5": "4d3811bdd6a8d22d9d429d0f6e90a0dd"
         }
       ]
     },
@@ -317,11 +317,11 @@
         {
           "name": "facetecsdk-1.2.0-sources.jar",
           "url": "facetecsdk-1.2.0-sources.jar",
-          "size": 110066,
-          "sha512": "53901e0d7e366619da0f5be46b43296c9f68b4a6d34476f46ab96f62be91ec42ed519aac12df1df7ce28b869e9a42b13ffd5fc448c681d5abcfab7364b16bd8c",
-          "sha256": "7d25e5dfdf829832a7c63bb31f4175add1076d51fac8b7edc07bb738d9047aec",
-          "sha1": "f7bf31c3f1d6458b170e5439d7e0a71b5bdfe472",
-          "md5": "c6e38440df0ec6b8976e7653f9472444"
+          "size": 117858,
+          "sha512": "7dbfeef6f09ddd25ddc532e3ff8978b377afe0d053253c7f345d057d79e22391506d2ddd0ef6948486e3802b585bfc872b408255fc142a04024b1ec01e41a5e5",
+          "sha256": "34d89a1d320c25a0af21f7eecd01f334c553ab608f532797c5d46a94a6daf18b",
+          "sha1": "209133e7d374b16a284606dbd997054fe69c9a1c",
+          "md5": "af3b58c3eff3c4862f78e6f4191f13e8"
         }
       ]
     }
