@@ -131,7 +131,7 @@
         },
         {
           "group": "br.com.certiface",
-          "module": "certiface-network",
+          "module": "network",
           "version": {
             "requires": "1.2.0"
           }
