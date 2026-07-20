@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "8.14.5"
+      "version": "8.14.3"
     }
   },
   "variants": [
@@ -42,11 +42,11 @@
         {
           "name": "utils-1.2.1.aar",
           "url": "utils-1.2.1.aar",
-          "size": 104255,
-          "sha512": "fc43a9c95a38a7f1f6cc3b47845b89583c28390bad0138d9236b5f84d4037f663b1a8aab5d17c96c12fcd336ea624c99286172f2c831cbf1c2925c741ccd0d9a",
-          "sha256": "3f906507f25aa1845552f3527873fe13838ab1dffe2852e0c081f7178aa6a3ab",
-          "sha1": "0e0c16745e655106eca9729a4255536634ca3f6e",
-          "md5": "1cf8772de0c95b6db401c4d7915a82b6"
+          "size": 104487,
+          "sha512": "0b9d2164bebda6a701e934ca97f70a227c68017ef76e251d2dcc56980608769b8abf047853549aef6df0f1dcf9a70a43146c06c3b9ac45f68ea7bf4b8ba5d692",
+          "sha256": "7bf19ce4b8db263ec2fefb76ca17f6709482a42c02e6b7f3e94b2b737bb17547",
+          "sha1": "d78516a48dded99341fcba0b8e4626310581f1e6",
+          "md5": "9d9f9903acdbc3d9fbd9274dcf6fc331"
         }
       ]
     },
@@ -165,10 +165,6 @@
           }
         },
         {
-          "group": "androidx.compose.material3",
-          "module": "material3"
-        },
-        {
           "group": "androidx.compose.material",
           "module": "material",
           "version": {
@@ -221,11 +217,8 @@
           "module": "ui-graphics"
         },
         {
-          "group": "androidx.compose.ui",
-          "module": "ui-tooling",
-          "version": {
-            "requires": "1.9.1"
-          }
+          "group": "androidx.compose.material3",
+          "module": "material3"
         },
         {
           "group": "androidx.activity",
@@ -284,11 +277,11 @@
         {
           "name": "utils-1.2.1.aar",
           "url": "utils-1.2.1.aar",
-          "size": 104255,
-          "sha512": "fc43a9c95a38a7f1f6cc3b47845b89583c28390bad0138d9236b5f84d4037f663b1a8aab5d17c96c12fcd336ea624c99286172f2c831cbf1c2925c741ccd0d9a",
-          "sha256": "3f906507f25aa1845552f3527873fe13838ab1dffe2852e0c081f7178aa6a3ab",
-          "sha1": "0e0c16745e655106eca9729a4255536634ca3f6e",
-          "md5": "1cf8772de0c95b6db401c4d7915a82b6"
+          "size": 104487,
+          "sha512": "0b9d2164bebda6a701e934ca97f70a227c68017ef76e251d2dcc56980608769b8abf047853549aef6df0f1dcf9a70a43146c06c3b9ac45f68ea7bf4b8ba5d692",
+          "sha256": "7bf19ce4b8db263ec2fefb76ca17f6709482a42c02e6b7f3e94b2b737bb17547",
+          "sha1": "d78516a48dded99341fcba0b8e4626310581f1e6",
+          "md5": "9d9f9903acdbc3d9fbd9274dcf6fc331"
         }
       ]
     },
@@ -304,11 +297,11 @@
         {
           "name": "utils-1.2.1-sources.jar",
           "url": "utils-1.2.1-sources.jar",
-          "size": 35651,
-          "sha512": "0f5d20f45a17b77ef5064c1e01db8f94dbfb715294c99207a3d7216c23b9dd139aae05a86c3c1781e8f817a86da7f3bb9cc8f69c018465c885a984e14b381318",
-          "sha256": "03ab3bb0cbdfa34046cec02327985547f62f1e963c3a13ae6a5bb6b10b605dac",
-          "sha1": "528c419b3e0cfc023a23b3b075bf5591f16e9db4",
-          "md5": "91b161fe085b4d9c7f8164ce3abf95c5"
+          "size": 35656,
+          "sha512": "31aed8fc41afdebca2153e446a2fa70af856e4ad845ac48e61965e76dd2c9306bb5d81d587a62537eae0690a53f81211280e6db3dda35bd5c575b297d36dd307",
+          "sha256": "da7c6dca9c3369c8e5def4ef90a6b059fbf61c36b76241e609a4cf89234dc880",
+          "sha1": "505074fba2ebd64aa1487adf974f558e6e830918",
+          "md5": "1b5b25c7d7b86af025ee8d856fd50941"
         }
       ]
     }
