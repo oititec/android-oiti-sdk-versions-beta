@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "8.14.5"
+      "version": "8.14.3"
     }
   },
   "variants": [
@@ -27,7 +27,7 @@
           "group": "com.facetec",
           "module": "sdk",
           "version": {
-            "requires": "9.7.126"
+            "requires": "9.7.135"
           }
         },
         {
@@ -42,11 +42,11 @@
         {
           "name": "facetecsdk-1.2.1.aar",
           "url": "facetecsdk-1.2.1.aar",
-          "size": 597905,
-          "sha512": "74ac6849eef014580d64ac7509e887d6a9117302b66d8b9188ce8c152f74454c99e9f67fbe760d6669ffbf13e6d20d320192d7c13a7c85a88b63852d658a2212",
-          "sha256": "1d796f017671114530878d023a518e8c2533e9383b4c2d9be22e783c99845fcb",
-          "sha1": "b5ca388d084cc17849277e5cec0bda5db3572ac0",
-          "md5": "449189acd01622936e2f34e10d6122b6"
+          "size": 599216,
+          "sha512": "29cf87ee4a24d5eeb303a20284668805e85255418179099ad9a68f9128ea18739694e20fcfa6cfa91f5d92a1936463de3ef96adaefc12b6a287071693b0705ff",
+          "sha256": "b273f2e0d4ebbd51d3f17c1c07290a266e5f274a412c5579cc37787140426fdb",
+          "sha1": "fe3c266ce5fcab7563253a92c22a368d34b5b6f9",
+          "md5": "36a9bb2956a7a6450cbb26398de42f76"
         }
       ]
     },
@@ -90,10 +90,6 @@
         {
           "group": "androidx.compose.ui",
           "module": "ui-graphics"
-        },
-        {
-          "group": "androidx.compose.material3",
-          "module": "material3"
         },
         {
           "group": "com.google.android.gms",
@@ -189,13 +185,6 @@
         },
         {
           "group": "androidx.compose.ui",
-          "module": "ui-tooling",
-          "version": {
-            "requires": "1.9.1"
-          }
-        },
-        {
-          "group": "androidx.compose.ui",
           "module": "ui-tooling-preview",
           "version": {
             "requires": "1.9.1"
@@ -228,6 +217,10 @@
           "version": {
             "requires": "2.9.4"
           }
+        },
+        {
+          "group": "androidx.compose.material3",
+          "module": "material3"
         },
         {
           "group": "com.google.accompanist",
@@ -282,7 +275,7 @@
           "group": "com.facetec",
           "module": "sdk",
           "version": {
-            "requires": "9.7.126"
+            "requires": "9.7.135"
           }
         },
         {
@@ -297,11 +290,11 @@
         {
           "name": "facetecsdk-1.2.1.aar",
           "url": "facetecsdk-1.2.1.aar",
-          "size": 597905,
-          "sha512": "74ac6849eef014580d64ac7509e887d6a9117302b66d8b9188ce8c152f74454c99e9f67fbe760d6669ffbf13e6d20d320192d7c13a7c85a88b63852d658a2212",
-          "sha256": "1d796f017671114530878d023a518e8c2533e9383b4c2d9be22e783c99845fcb",
-          "sha1": "b5ca388d084cc17849277e5cec0bda5db3572ac0",
-          "md5": "449189acd01622936e2f34e10d6122b6"
+          "size": 599216,
+          "sha512": "29cf87ee4a24d5eeb303a20284668805e85255418179099ad9a68f9128ea18739694e20fcfa6cfa91f5d92a1936463de3ef96adaefc12b6a287071693b0705ff",
+          "sha256": "b273f2e0d4ebbd51d3f17c1c07290a266e5f274a412c5579cc37787140426fdb",
+          "sha1": "fe3c266ce5fcab7563253a92c22a368d34b5b6f9",
+          "md5": "36a9bb2956a7a6450cbb26398de42f76"
         }
       ]
     },
@@ -317,11 +310,11 @@
         {
           "name": "facetecsdk-1.2.1-sources.jar",
           "url": "facetecsdk-1.2.1-sources.jar",
-          "size": 117891,
-          "sha512": "2e6e7401d6be5b629cf0397993ab0f4ab21b65ea6dd71f3d8bc41070742f37883edaf7c581d82f42fc7958481bd2dbfd0f775bc52c37557c93c517349685aa3f",
-          "sha256": "508dffd31e6df8d91d3c259a97a47f9936a972f6f07950e050833b2f58b20585",
-          "sha1": "754efa5028ffbb4b33d1ad5affc6377b5cbe8047",
-          "md5": "7e9eb034434cf1fcbf85819761a44c2a"
+          "size": 118608,
+          "sha512": "190c7a7b2977aeb478bd9e25a5a92f2c42253f043e3617d631ec0d9e7831f9ef21fdcae638e8f71ae34fa46f365018480189f19affc5904d166bbb3b481f31ce",
+          "sha256": "9d76cd3f83546f25286fd2bd8e1f7bac056d66f4f11348217f58d9e42a9921d3",
+          "sha1": "e6d0df2bb501f284b7e7b94f3fcc4d1d91c4a8fc",
+          "md5": "96751afc6fc0c77c9825da4a1f71ab58"
         }
       ]
     }
