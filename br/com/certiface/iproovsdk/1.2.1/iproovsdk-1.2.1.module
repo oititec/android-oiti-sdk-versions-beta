@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "8.14.5"
+      "version": "8.14.3"
     }
   },
   "variants": [
@@ -27,7 +27,7 @@
           "group": "com.iproov.sdk",
           "module": "iproov",
           "version": {
-            "requires": "11.1.1"
+            "requires": "11.1.0"
           }
         },
         {
@@ -42,11 +42,11 @@
         {
           "name": "iproovsdk-1.2.1.aar",
           "url": "iproovsdk-1.2.1.aar",
-          "size": 329236,
-          "sha512": "4c55990dcf4e8d7788750b424d01235523a19b3870ac62eafcb7273305cefc6786150045b79cabc77718ce813dbef1abc6fdaf02e9e6a43ee7d66df37d645b83",
-          "sha256": "cb9427323a89aa4597b6920f808cd59113b0022261d0b856d9120753b4c8f411",
-          "sha1": "a4568402be31b95dc19b077c15ed8e48aa67472b",
-          "md5": "3e64a81db9646203ba9c476de3a5dfc3"
+          "size": 330385,
+          "sha512": "888eb980acba7459b7a4e898102a6b026e86a5f647d4456c7a5ea803bead80ea403d2fad9fd1606a4e9c395ef32c0ee6b31afad702a15a5ed9f4f7f10f12aee3",
+          "sha256": "8bb6a622870a8ef9dc4c7b47ea8df1c1b782dfa0b6c999a68807d072b0e47a66",
+          "sha1": "97f800a551206a05b1f335c29905e281ffd8153f",
+          "md5": "b31a3a408881aa7d2a9eaa3134ff3771"
         }
       ]
     },
@@ -90,10 +90,6 @@
         {
           "group": "androidx.compose.ui",
           "module": "ui-graphics"
-        },
-        {
-          "group": "androidx.compose.material3",
-          "module": "material3"
         },
         {
           "group": "com.google.dagger",
@@ -182,13 +178,6 @@
         },
         {
           "group": "androidx.compose.ui",
-          "module": "ui-tooling",
-          "version": {
-            "requires": "1.9.1"
-          }
-        },
-        {
-          "group": "androidx.compose.ui",
           "module": "ui-tooling-preview",
           "version": {
             "requires": "1.9.1"
@@ -221,6 +210,10 @@
           "version": {
             "requires": "2.9.4"
           }
+        },
+        {
+          "group": "androidx.compose.material3",
+          "module": "material3"
         },
         {
           "group": "com.google.accompanist",
@@ -275,7 +268,7 @@
           "group": "com.iproov.sdk",
           "module": "iproov",
           "version": {
-            "requires": "11.1.1"
+            "requires": "11.1.0"
           }
         },
         {
@@ -290,11 +283,11 @@
         {
           "name": "iproovsdk-1.2.1.aar",
           "url": "iproovsdk-1.2.1.aar",
-          "size": 329236,
-          "sha512": "4c55990dcf4e8d7788750b424d01235523a19b3870ac62eafcb7273305cefc6786150045b79cabc77718ce813dbef1abc6fdaf02e9e6a43ee7d66df37d645b83",
-          "sha256": "cb9427323a89aa4597b6920f808cd59113b0022261d0b856d9120753b4c8f411",
-          "sha1": "a4568402be31b95dc19b077c15ed8e48aa67472b",
-          "md5": "3e64a81db9646203ba9c476de3a5dfc3"
+          "size": 330385,
+          "sha512": "888eb980acba7459b7a4e898102a6b026e86a5f647d4456c7a5ea803bead80ea403d2fad9fd1606a4e9c395ef32c0ee6b31afad702a15a5ed9f4f7f10f12aee3",
+          "sha256": "8bb6a622870a8ef9dc4c7b47ea8df1c1b782dfa0b6c999a68807d072b0e47a66",
+          "sha1": "97f800a551206a05b1f335c29905e281ffd8153f",
+          "md5": "b31a3a408881aa7d2a9eaa3134ff3771"
         }
       ]
     },
@@ -310,11 +303,11 @@
         {
           "name": "iproovsdk-1.2.1-sources.jar",
           "url": "iproovsdk-1.2.1-sources.jar",
-          "size": 55678,
-          "sha512": "346dc253088e3c7406bc6967f642cb8f7faf8688631f32b14d73227910475cce232b02c8967ee4ba671fc3576cb758f38920207cdeb9bbb547ae2fc4428afbb6",
-          "sha256": "41b56251397a9d7cc38d01948328e974896451dab7fa5616c68c2d7af4115248",
-          "sha1": "a4fab292a29838258c6c1fb5679c7ae4a9bf4444",
-          "md5": "29d39cb6a6a42de94fa57e79213e9d7b"
+          "size": 56203,
+          "sha512": "de94760fd6f7e796fc304949af21f128dc44e87aab06ae6428224d61559c406b99b5bc2b37bb0042ead3ea0c88e3e6fe7e99f49833dcddff0732775bb8cdbb67",
+          "sha256": "0ea7ac06a28ec433f3bd6348196e6a99d53131a76e3bc2aa34208fa149bb7064",
+          "sha1": "667478214290533b203f937a2405be649136b473",
+          "md5": "c917219e11bbf2fdb32b70bf35a4ccb1"
         }
       ]
     }
