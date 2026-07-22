@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "8.14.3"
+      "version": "8.14.5"
     }
   },
   "variants": [
@@ -59,6 +59,13 @@
           }
         },
         {
+          "group": "br.com.certiface",
+          "module": "fortfacesdk",
+          "version": {
+            "requires": "1.2.1"
+          }
+        },
+        {
           "group": "androidx.databinding",
           "module": "viewbinding",
           "version": {
@@ -77,11 +84,11 @@
         {
           "name": "certifacesdk-1.2.1.aar",
           "url": "certifacesdk-1.2.1.aar",
-          "size": 97334,
-          "sha512": "87bbf1c7ef5d6f554cb095364642013fe262785f6854d306be56df680f2ece4836ea602eb66409e51eeea34dcec8e9b99f1b74a268f41852661024e9e02cfd79",
-          "sha256": "35b09ef11c0ab3fecc641133ee0c17f00d207c0742ef8d99c6f76df9f38272ee",
-          "sha1": "bde70567595eb365ae7f400b1e8082d993fce99d",
-          "md5": "af9c70c32521c5d1685cb043aef87a57"
+          "size": 154464,
+          "sha512": "0ced05a424bfa4d7cf59dac5062411613d239b283131612fb85422234ba415a2728e6bfeca7419f22b25ea9b9105d89f1f534ebde8b3234b72ad2db1a592ee5e",
+          "sha256": "b26e7a698130457873ab826c575e14a64dccafed30b8bc4ef5eab70a2f57d29b",
+          "sha1": "b4a92f488bb8210c5200aeb33013d7d9ab2d6fea",
+          "md5": "dce77e9739928d554304a1ca0b0a4761"
         }
       ]
     },
@@ -264,6 +271,13 @@
           }
         },
         {
+          "group": "br.com.certiface",
+          "module": "fortfacesdk",
+          "version": {
+            "requires": "1.2.1"
+          }
+        },
+        {
           "group": "androidx.databinding",
           "module": "viewbinding",
           "version": {
@@ -282,11 +296,11 @@
         {
           "name": "certifacesdk-1.2.1.aar",
           "url": "certifacesdk-1.2.1.aar",
-          "size": 97334,
-          "sha512": "87bbf1c7ef5d6f554cb095364642013fe262785f6854d306be56df680f2ece4836ea602eb66409e51eeea34dcec8e9b99f1b74a268f41852661024e9e02cfd79",
-          "sha256": "35b09ef11c0ab3fecc641133ee0c17f00d207c0742ef8d99c6f76df9f38272ee",
-          "sha1": "bde70567595eb365ae7f400b1e8082d993fce99d",
-          "md5": "af9c70c32521c5d1685cb043aef87a57"
+          "size": 154464,
+          "sha512": "0ced05a424bfa4d7cf59dac5062411613d239b283131612fb85422234ba415a2728e6bfeca7419f22b25ea9b9105d89f1f534ebde8b3234b72ad2db1a592ee5e",
+          "sha256": "b26e7a698130457873ab826c575e14a64dccafed30b8bc4ef5eab70a2f57d29b",
+          "sha1": "b4a92f488bb8210c5200aeb33013d7d9ab2d6fea",
+          "md5": "dce77e9739928d554304a1ca0b0a4761"
         }
       ]
     },
@@ -302,11 +316,11 @@
         {
           "name": "certifacesdk-1.2.1-sources.jar",
           "url": "certifacesdk-1.2.1-sources.jar",
-          "size": 38673,
-          "sha512": "102d1fbdd0c0b00cf0777878f105c266992ef1cb0889974c23cea156142c13da04142fa5286e5e97c402ae5a46091af492b2c054d67330317408df67a01cb767",
-          "sha256": "70420593e750173471bb19f89c3ab06ff8977b4d3ae0544f8937d54ff568986a",
-          "sha1": "da3abe59744df49f78ded7901187c487d31f5fd0",
-          "md5": "2082670216c2366ec354ee58cf225215"
+          "size": 57300,
+          "sha512": "d169b3b486242f2a2e0338356dfeb43927e0fe477efd49d77cedbbeabfe652a160fa7956335c23cf4de8b9fcfb8e5b129d433fc481c14b4c47acae316e4f8e9d",
+          "sha256": "93d5e9f83672e07062ccfa31295391009d8bc961bd8b32f4032d78617601697f",
+          "sha1": "3a83d8cf93c467cae71dfc401b178fd13b22cbf9",
+          "md5": "9e1ad04c21b17067084f66e19a1327bd"
         }
       ]
     }
