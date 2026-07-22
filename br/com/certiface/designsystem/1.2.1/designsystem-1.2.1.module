@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "8.14.3"
+      "version": "8.14.5"
     }
   },
   "variants": [
@@ -42,11 +42,11 @@
         {
           "name": "designsystem-1.2.1.aar",
           "url": "designsystem-1.2.1.aar",
-          "size": 1914917,
-          "sha512": "aa2ec08238db245b3e783e7584f961ae0540f1710b6ee18084570e277e9c7815b4ffe95bba0a5c175f7e1f3f7b9c305a24f61428887947b3acb1f0706c55b6e1",
-          "sha256": "0e818d20d8d101c110472bc36a8c2671fcd3373087e7bf95e71cfb9c103101af",
-          "sha1": "2830dcadaf5ae2f55bb0e20c56d0b0b95c11bf8e",
-          "md5": "fda2b455de981c79466b4df9d6fe3d74"
+          "size": 1956592,
+          "sha512": "e6a5fcf92feebda028b68e1f5f7bc227efee7b9d1e5b81bf18a1dab90904ddbd80a139e1a721f4fdc486c682e434838f14acf7445ba84d7069b96b2a5068a266",
+          "sha256": "49a85588348f27ecb25a806d52e06cf50cf532f69d73deeef2d16ca0cc2fae19",
+          "sha1": "29f3def3408d0e61e3ae0a46195fd13ac7a21226",
+          "md5": "9238a0565e1e3af9f23fff9529667d55"
         }
       ]
     },
@@ -214,11 +214,11 @@
         {
           "name": "designsystem-1.2.1.aar",
           "url": "designsystem-1.2.1.aar",
-          "size": 1914917,
-          "sha512": "aa2ec08238db245b3e783e7584f961ae0540f1710b6ee18084570e277e9c7815b4ffe95bba0a5c175f7e1f3f7b9c305a24f61428887947b3acb1f0706c55b6e1",
-          "sha256": "0e818d20d8d101c110472bc36a8c2671fcd3373087e7bf95e71cfb9c103101af",
-          "sha1": "2830dcadaf5ae2f55bb0e20c56d0b0b95c11bf8e",
-          "md5": "fda2b455de981c79466b4df9d6fe3d74"
+          "size": 1956592,
+          "sha512": "e6a5fcf92feebda028b68e1f5f7bc227efee7b9d1e5b81bf18a1dab90904ddbd80a139e1a721f4fdc486c682e434838f14acf7445ba84d7069b96b2a5068a266",
+          "sha256": "49a85588348f27ecb25a806d52e06cf50cf532f69d73deeef2d16ca0cc2fae19",
+          "sha1": "29f3def3408d0e61e3ae0a46195fd13ac7a21226",
+          "md5": "9238a0565e1e3af9f23fff9529667d55"
         }
       ]
     },
@@ -234,11 +234,11 @@
         {
           "name": "designsystem-1.2.1-sources.jar",
           "url": "designsystem-1.2.1-sources.jar",
-          "size": 40244,
-          "sha512": "4467bbc3aaf2f86336afd73026af10ac54611dcff1bc5151ba88b8869f4b23f0e37e708ff415ecbfed9a186dfb63d8b171965d65fa5c320fcfbd5be843d28835",
-          "sha256": "422daee3ee825bebcf5b4b5f9637d3ea2ba0d5ff7dd6aec717e7018096317c03",
-          "sha1": "44bb6e9af0e119d8b69bf5da25574fe007b167c6",
-          "md5": "eee55a5ee2843b4651955e7d6ead80d4"
+          "size": 46850,
+          "sha512": "6e706d174d2864719bc817f8af75093d0c1bfc3d9c4ce7822d2003e473907886d530dab7deac7d08a03bd0c38a5d335a45516d0dd10590ffbdba15c9c276feb3",
+          "sha256": "e6c14a6ac91fd312f9ef524f5b63b89e62c47f9df436802436b68be360885891",
+          "sha1": "7825de85f927167b55fa40b26865665e2a6be2b2",
+          "md5": "59b52f7cca7399467c1642660ffb1fbb"
         }
       ]
     }
