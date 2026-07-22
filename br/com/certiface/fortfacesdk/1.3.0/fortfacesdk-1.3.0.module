@@ -42,11 +42,11 @@
         {
           "name": "fortfacesdk-1.3.0.aar",
           "url": "fortfacesdk-1.3.0.aar",
-          "size": 211249,
-          "sha512": "a6c68121947c3abb62b0605d681cb5645f063a0da391fd077cc5ba3e2555f85d618f4fcbf12f9d5358e6a1ef98bafb1894fe27b3f53b441b1cab8635b87c760e",
-          "sha256": "56495628f7ff165dc8c5f5ec13ca968653a4ee19d9bb344e9e8eca110ebfcc26",
-          "sha1": "62a13bc5311e1576def156c410d610d7a93a8129",
-          "md5": "fd0243baed12b4257814c1cb31b4a289"
+          "size": 218228,
+          "sha512": "e97edbeb95a1f5ab6b5b3ec419550e6348b23f2fc6ab8d35c659d252ac5b3d7a0be748b7b0ffe9766aaf2ddf4a2f2a76e579d8063a8ba4aac6c1ef72713a5f50",
+          "sha256": "e0f3f87e61852231f57633ec4628c667574094a5427015f5fa5dabae47e4b161",
+          "sha1": "9371562a422fa7bfb249a7a42e25c3093de0fb1e",
+          "md5": "60b171fc18a0a3369a5e0cd041d70b13"
         }
       ]
     },
@@ -312,11 +312,11 @@
         {
           "name": "fortfacesdk-1.3.0.aar",
           "url": "fortfacesdk-1.3.0.aar",
-          "size": 211249,
-          "sha512": "a6c68121947c3abb62b0605d681cb5645f063a0da391fd077cc5ba3e2555f85d618f4fcbf12f9d5358e6a1ef98bafb1894fe27b3f53b441b1cab8635b87c760e",
-          "sha256": "56495628f7ff165dc8c5f5ec13ca968653a4ee19d9bb344e9e8eca110ebfcc26",
-          "sha1": "62a13bc5311e1576def156c410d610d7a93a8129",
-          "md5": "fd0243baed12b4257814c1cb31b4a289"
+          "size": 218228,
+          "sha512": "e97edbeb95a1f5ab6b5b3ec419550e6348b23f2fc6ab8d35c659d252ac5b3d7a0be748b7b0ffe9766aaf2ddf4a2f2a76e579d8063a8ba4aac6c1ef72713a5f50",
+          "sha256": "e0f3f87e61852231f57633ec4628c667574094a5427015f5fa5dabae47e4b161",
+          "sha1": "9371562a422fa7bfb249a7a42e25c3093de0fb1e",
+          "md5": "60b171fc18a0a3369a5e0cd041d70b13"
         }
       ]
     },
@@ -332,11 +332,11 @@
         {
           "name": "fortfacesdk-1.3.0-sources.jar",
           "url": "fortfacesdk-1.3.0-sources.jar",
-          "size": 75447,
-          "sha512": "6892f9d30024daf26ffa4045716fd13aebc192045f7165c72ce2de16fa1a764c1cae348a36ad6517929daeb4dc888699d67420c3fad4cbdaf30b8967a73bb73f",
-          "sha256": "4783831b22229fe7c5ac3c16738218c8572a769597a1431ac87d9a685bf2d01e",
-          "sha1": "7479e9c4763d45dbaf6c00fb05e9fcbc1e5790b6",
-          "md5": "beec3d6ca98493862bc7cba9bb0b9f1a"
+          "size": 77002,
+          "sha512": "3e1c9798607cbd7118ad6ae76339fe6927d45501e6d212d7248c40c12530eeb25c0f0ac86b325476f2a199f6397de54dbc9bbf3e202380c635dc02d538d3580e",
+          "sha256": "dafd02010a5dad057737f2cea7b861dca2ea2c246c45b0749587ea23db075c6f",
+          "sha1": "b687494b8c511d35a1fe827cd2abb07f63923b6f",
+          "md5": "621e039ae964ebb4a1b09bc6ca2d182c"
         }
       ]
     }
