@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "8.14.3"
+      "version": "8.14.5"
     }
   },
   "variants": [
@@ -42,11 +42,11 @@
         {
           "name": "utils-1.2.1.aar",
           "url": "utils-1.2.1.aar",
-          "size": 104487,
-          "sha512": "0b9d2164bebda6a701e934ca97f70a227c68017ef76e251d2dcc56980608769b8abf047853549aef6df0f1dcf9a70a43146c06c3b9ac45f68ea7bf4b8ba5d692",
-          "sha256": "7bf19ce4b8db263ec2fefb76ca17f6709482a42c02e6b7f3e94b2b737bb17547",
-          "sha1": "d78516a48dded99341fcba0b8e4626310581f1e6",
-          "md5": "9d9f9903acdbc3d9fbd9274dcf6fc331"
+          "size": 108994,
+          "sha512": "3b94079a29787d3ca081ed3b8f35ec2667bc3d2638bf834c387e7bccbea6368f26ac559c6d2d39a2948bddfe159d37f1d6678172cd951af75ff92a21e528b79b",
+          "sha256": "6e8a03bb9cce9e1f7debeed7c3c5e2ec727448ff23344f0de525326955a64082",
+          "sha1": "a6d1af58a7a95dba40f92b9b32bcc2e2c5dbf9a8",
+          "md5": "b2c39567df474c62e9eb77aae8a11ab6"
         }
       ]
     },
@@ -259,6 +259,13 @@
           }
         },
         {
+          "group": "br.com.certiface",
+          "module": "di",
+          "version": {
+            "requires": "1.2.1"
+          }
+        },
+        {
           "group": "androidx.databinding",
           "module": "viewbinding",
           "version": {
@@ -277,11 +284,11 @@
         {
           "name": "utils-1.2.1.aar",
           "url": "utils-1.2.1.aar",
-          "size": 104487,
-          "sha512": "0b9d2164bebda6a701e934ca97f70a227c68017ef76e251d2dcc56980608769b8abf047853549aef6df0f1dcf9a70a43146c06c3b9ac45f68ea7bf4b8ba5d692",
-          "sha256": "7bf19ce4b8db263ec2fefb76ca17f6709482a42c02e6b7f3e94b2b737bb17547",
-          "sha1": "d78516a48dded99341fcba0b8e4626310581f1e6",
-          "md5": "9d9f9903acdbc3d9fbd9274dcf6fc331"
+          "size": 108994,
+          "sha512": "3b94079a29787d3ca081ed3b8f35ec2667bc3d2638bf834c387e7bccbea6368f26ac559c6d2d39a2948bddfe159d37f1d6678172cd951af75ff92a21e528b79b",
+          "sha256": "6e8a03bb9cce9e1f7debeed7c3c5e2ec727448ff23344f0de525326955a64082",
+          "sha1": "a6d1af58a7a95dba40f92b9b32bcc2e2c5dbf9a8",
+          "md5": "b2c39567df474c62e9eb77aae8a11ab6"
         }
       ]
     },
@@ -297,11 +304,11 @@
         {
           "name": "utils-1.2.1-sources.jar",
           "url": "utils-1.2.1-sources.jar",
-          "size": 35656,
-          "sha512": "31aed8fc41afdebca2153e446a2fa70af856e4ad845ac48e61965e76dd2c9306bb5d81d587a62537eae0690a53f81211280e6db3dda35bd5c575b297d36dd307",
-          "sha256": "da7c6dca9c3369c8e5def4ef90a6b059fbf61c36b76241e609a4cf89234dc880",
-          "sha1": "505074fba2ebd64aa1487adf974f558e6e830918",
-          "md5": "1b5b25c7d7b86af025ee8d856fd50941"
+          "size": 37360,
+          "sha512": "c45f37e888ec1d58d1e477654c0ccf71a9272ccadcb7c2bc937792ddb17e6989dfb86428a34d888a9e690e5bace14284c4995ebf92239c4c0dbcadba0d36e937",
+          "sha256": "1b06f636afc6b7d3f2f2305a9aa1e7baa34d36e0191b08589ae5e4ce19ecbdd5",
+          "sha1": "2b5782b6ab61e0fcefa4c2cf372ac39c97c3794d",
+          "md5": "fbba696c45e29c1cbfe74dc95bbf2af7"
         }
       ]
     }
