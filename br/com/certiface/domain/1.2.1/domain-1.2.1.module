@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "8.14.3"
+      "version": "8.14.5"
     }
   },
   "variants": [
@@ -35,11 +35,11 @@
         {
           "name": "domain-1.2.1.aar",
           "url": "domain-1.2.1.aar",
-          "size": 170414,
-          "sha512": "b3ee618afdf0b79560bbf611bc747cd0f3a9d9b9705615ed46ebb256775e350880627816eb8c125f00da41792d2acc8105155dda5364e2ad89e293f7149c18d1",
-          "sha256": "452ac39c7bfb17a0d67031f6e7b278bac3d3a969c4f29c6c1db3ec072949bc55",
-          "sha1": "94616174ee37402f159ad0162808edb8ba0abaa4",
-          "md5": "dc98117d227b76b2e51a64259e3e7829"
+          "size": 218125,
+          "sha512": "0b714b92304ea0b8319df8f9cd18b10063288c32c8312502d48ff9e3dc46f2b12863fc12a404f835cf66e8ed822ba4e461c27450786d86e3e15e229668b126d0",
+          "sha256": "ef78e37f85036ca74f2513191625cf2ba963b2778a720daa9ae1b7559302a9d0",
+          "sha1": "aafaac1d42faefcfd191e5235af4171f4bc4097d",
+          "md5": "aa9db79e1025d78199de8e6dd810a23e"
         }
       ]
     },
@@ -148,11 +148,11 @@
         {
           "name": "domain-1.2.1.aar",
           "url": "domain-1.2.1.aar",
-          "size": 170414,
-          "sha512": "b3ee618afdf0b79560bbf611bc747cd0f3a9d9b9705615ed46ebb256775e350880627816eb8c125f00da41792d2acc8105155dda5364e2ad89e293f7149c18d1",
-          "sha256": "452ac39c7bfb17a0d67031f6e7b278bac3d3a969c4f29c6c1db3ec072949bc55",
-          "sha1": "94616174ee37402f159ad0162808edb8ba0abaa4",
-          "md5": "dc98117d227b76b2e51a64259e3e7829"
+          "size": 218125,
+          "sha512": "0b714b92304ea0b8319df8f9cd18b10063288c32c8312502d48ff9e3dc46f2b12863fc12a404f835cf66e8ed822ba4e461c27450786d86e3e15e229668b126d0",
+          "sha256": "ef78e37f85036ca74f2513191625cf2ba963b2778a720daa9ae1b7559302a9d0",
+          "sha1": "aafaac1d42faefcfd191e5235af4171f4bc4097d",
+          "md5": "aa9db79e1025d78199de8e6dd810a23e"
         }
       ]
     },
@@ -168,11 +168,11 @@
         {
           "name": "domain-1.2.1-sources.jar",
           "url": "domain-1.2.1-sources.jar",
-          "size": 42452,
-          "sha512": "c70838149742df44662b6ef86ebe16bec4c23fa4d28fb33947f44798dcd8e1c73cba6ecd39f6d953f4d96421b24890e518332123b3732f97888a18027bfdedb1",
-          "sha256": "eccece373c804abd0a4a285e61676a85d25b0e953eae15a79f5be95fd3cab02a",
-          "sha1": "83ba615a099ea9731ed4c0c625269663e307642d",
-          "md5": "9e0663694c83405404f271fad8cff71a"
+          "size": 55645,
+          "sha512": "acafe7d8ebbf5c1404a61b167de5041bebfb613725fc0eae5840082ebdeb00f7f967bf7894f4637774bb0817f8ed02e65e74b74316b2492430916feaa5b91313",
+          "sha256": "4c98a54f3ce639a9b1ae3508a192c4f51dd5f9c4749bf65aa6f89db68010b700",
+          "sha1": "370babce40a1179d4e68c32640321d21fb027872",
+          "md5": "1fa4dbb1f9d597f1d9920bc50f71ab2a"
         }
       ]
     }
