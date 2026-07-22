@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "8.14.3"
+      "version": "8.14.5"
     }
   },
   "variants": [
@@ -27,7 +27,7 @@
           "group": "com.iproov.sdk",
           "module": "iproov",
           "version": {
-            "requires": "11.1.0"
+            "requires": "11.1.1"
           }
         },
         {
@@ -42,11 +42,11 @@
         {
           "name": "iproovsdk-1.2.1.aar",
           "url": "iproovsdk-1.2.1.aar",
-          "size": 330385,
-          "sha512": "888eb980acba7459b7a4e898102a6b026e86a5f647d4456c7a5ea803bead80ea403d2fad9fd1606a4e9c395ef32c0ee6b31afad702a15a5ed9f4f7f10f12aee3",
-          "sha256": "8bb6a622870a8ef9dc4c7b47ea8df1c1b782dfa0b6c999a68807d072b0e47a66",
-          "sha1": "97f800a551206a05b1f335c29905e281ffd8153f",
-          "md5": "b31a3a408881aa7d2a9eaa3134ff3771"
+          "size": 332008,
+          "sha512": "58f1985daaa72c0784a89b4160facd6cf7b877701b4f09b1312afdc2f9781bb9b3fccd3392dbeede920c3c05aa932df271c5e64203894714f98f70b50a330a35",
+          "sha256": "f79dac8e1dc771ab3064e8f702e8a636bfd796f4ac1811c74c037afee306062e",
+          "sha1": "ae8279202e0863c16727d93d86f36a304dad2bee",
+          "md5": "9e3bde33de926b5d06712e93c531fda7"
         }
       ]
     },
@@ -90,6 +90,10 @@
         {
           "group": "androidx.compose.ui",
           "module": "ui-graphics"
+        },
+        {
+          "group": "androidx.compose.material3",
+          "module": "material3"
         },
         {
           "group": "com.google.dagger",
@@ -212,10 +216,6 @@
           }
         },
         {
-          "group": "androidx.compose.material3",
-          "module": "material3"
-        },
-        {
           "group": "com.google.accompanist",
           "module": "accompanist-permissions",
           "version": {
@@ -268,7 +268,7 @@
           "group": "com.iproov.sdk",
           "module": "iproov",
           "version": {
-            "requires": "11.1.0"
+            "requires": "11.1.1"
           }
         },
         {
@@ -283,11 +283,11 @@
         {
           "name": "iproovsdk-1.2.1.aar",
           "url": "iproovsdk-1.2.1.aar",
-          "size": 330385,
-          "sha512": "888eb980acba7459b7a4e898102a6b026e86a5f647d4456c7a5ea803bead80ea403d2fad9fd1606a4e9c395ef32c0ee6b31afad702a15a5ed9f4f7f10f12aee3",
-          "sha256": "8bb6a622870a8ef9dc4c7b47ea8df1c1b782dfa0b6c999a68807d072b0e47a66",
-          "sha1": "97f800a551206a05b1f335c29905e281ffd8153f",
-          "md5": "b31a3a408881aa7d2a9eaa3134ff3771"
+          "size": 332008,
+          "sha512": "58f1985daaa72c0784a89b4160facd6cf7b877701b4f09b1312afdc2f9781bb9b3fccd3392dbeede920c3c05aa932df271c5e64203894714f98f70b50a330a35",
+          "sha256": "f79dac8e1dc771ab3064e8f702e8a636bfd796f4ac1811c74c037afee306062e",
+          "sha1": "ae8279202e0863c16727d93d86f36a304dad2bee",
+          "md5": "9e3bde33de926b5d06712e93c531fda7"
         }
       ]
     },
@@ -303,11 +303,11 @@
         {
           "name": "iproovsdk-1.2.1-sources.jar",
           "url": "iproovsdk-1.2.1-sources.jar",
-          "size": 56203,
-          "sha512": "de94760fd6f7e796fc304949af21f128dc44e87aab06ae6428224d61559c406b99b5bc2b37bb0042ead3ea0c88e3e6fe7e99f49833dcddff0732775bb8cdbb67",
-          "sha256": "0ea7ac06a28ec433f3bd6348196e6a99d53131a76e3bc2aa34208fa149bb7064",
-          "sha1": "667478214290533b203f937a2405be649136b473",
-          "md5": "c917219e11bbf2fdb32b70bf35a4ccb1"
+          "size": 56433,
+          "sha512": "347b609299498df51437883f4b57db7c39869ca2fd165da359ad4be40cfaa8a79d1ce53f2a93c04e38554874cb28dbc4eb4843fff6b6d138effa0b41cb4c03af",
+          "sha256": "e38004af14d940a2791745ecc8b8a98c2117860f1dcc892aabce2960eb42ac91",
+          "sha1": "90faf7d3bfe9b3a177a504b83e2df3142edbe7bc",
+          "md5": "74013d1ad31f77b226200d1d0dd95716"
         }
       ]
     }

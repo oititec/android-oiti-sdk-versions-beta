@@ -47,7 +47,7 @@
     <dependency>
       <groupId>com.iproov.sdk</groupId>
       <artifactId>iproov</artifactId>
-      <version>11.1.0</version>
+      <version>11.1.1</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
@@ -83,6 +83,11 @@
     <dependency>
       <groupId>androidx.compose.ui</groupId>
       <artifactId>ui-graphics</artifactId>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>androidx.compose.material3</groupId>
+      <artifactId>material3</artifactId>
       <scope>runtime</scope>
     </dependency>
     <dependency>
@@ -182,11 +187,6 @@
       <groupId>androidx.lifecycle</groupId>
       <artifactId>lifecycle-viewmodel-compose</artifactId>
       <version>2.9.4</version>
-      <scope>runtime</scope>
-    </dependency>
-    <dependency>
-      <groupId>androidx.compose.material3</groupId>
-      <artifactId>material3</artifactId>
       <scope>runtime</scope>
     </dependency>
     <dependency>
