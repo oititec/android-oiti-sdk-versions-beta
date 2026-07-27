@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "8.14.3"
+      "version": "8.14.5"
     }
   },
   "variants": [
@@ -42,11 +42,11 @@
         {
           "name": "utils-1.2.2.aar",
           "url": "utils-1.2.2.aar",
-          "size": 104487,
-          "sha512": "7c1ab944b3b880181e431df6c67b94b8e1455772d0d387b59da58662cb7e91a8254a8b66be2dbfb110ba89a31426f4e1ab9a9172a83bb9dfc80c9d69ad52887a",
-          "sha256": "8b7b8671e2c034398f8e06e5041a9f3ed657d11862af7005cbc4611c327598aa",
-          "sha1": "862f4bf4283a844ffeddf73147d60dc503d939f9",
-          "md5": "97f72d7c7b472f79e7a9ba9d2c829102"
+          "size": 104492,
+          "sha512": "44c4151f102f8f03412a10020e270016fd19d4a70139de4594d6b3e850531b54bbc6da0e70d45c3038c771b90d9dc127a4b96895339ef097f8b8b4cac149d955",
+          "sha256": "4294d969ca1ac4d77162417c933551e9b41d2c802766df92f71231bbefb3b2ad",
+          "sha1": "98542a9bdbb6a01c50b738ac0c0b7eff4a451a91",
+          "md5": "f406b5912c24996f147f1ffbb1715671"
         }
       ]
     },
@@ -277,11 +277,11 @@
         {
           "name": "utils-1.2.2.aar",
           "url": "utils-1.2.2.aar",
-          "size": 104487,
-          "sha512": "7c1ab944b3b880181e431df6c67b94b8e1455772d0d387b59da58662cb7e91a8254a8b66be2dbfb110ba89a31426f4e1ab9a9172a83bb9dfc80c9d69ad52887a",
-          "sha256": "8b7b8671e2c034398f8e06e5041a9f3ed657d11862af7005cbc4611c327598aa",
-          "sha1": "862f4bf4283a844ffeddf73147d60dc503d939f9",
-          "md5": "97f72d7c7b472f79e7a9ba9d2c829102"
+          "size": 104492,
+          "sha512": "44c4151f102f8f03412a10020e270016fd19d4a70139de4594d6b3e850531b54bbc6da0e70d45c3038c771b90d9dc127a4b96895339ef097f8b8b4cac149d955",
+          "sha256": "4294d969ca1ac4d77162417c933551e9b41d2c802766df92f71231bbefb3b2ad",
+          "sha1": "98542a9bdbb6a01c50b738ac0c0b7eff4a451a91",
+          "md5": "f406b5912c24996f147f1ffbb1715671"
         }
       ]
     },
@@ -297,11 +297,11 @@
         {
           "name": "utils-1.2.2-sources.jar",
           "url": "utils-1.2.2-sources.jar",
-          "size": 35657,
-          "sha512": "2ee3329e402dfdec15550f9d02e3a1cd3e2fb37bd69ee4517d0f074dd9232b256414a8c417c1d2ebd7a5d71a0689fc29d4a8b71b868baea6f6855783b726583c",
-          "sha256": "ec761735a0eecf3e85b9cf3e184972acfd27a6ed68e4f28e98e32f01189297c6",
-          "sha1": "9d0713072ca8a7b865018f274d32d73150f9bbe2",
-          "md5": "802a431b0c814faaa59b009aa14e2026"
+          "size": 35655,
+          "sha512": "cb83ce8b9ba097ea11e73a0d5eee5fd2d5ba88db166eb03a83e3698bb5b0f6930ecffcfa7100f530f9588630e049a6399eb671dbe75bcdea696318cf12393aac",
+          "sha256": "3c8a4256b54353acf7cc45378d3eb07cd14a775aaf69183c5782f6478834e53a",
+          "sha1": "69a5468b846268850d127b180148363a716c1ddb",
+          "md5": "decb5cd3dce9c11355f4d6ca50560881"
         }
       ]
     }
