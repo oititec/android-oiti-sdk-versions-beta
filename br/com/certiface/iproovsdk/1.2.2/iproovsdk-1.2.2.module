@@ -10,7 +10,7 @@
   },
   "createdBy": {
     "gradle": {
-      "version": "8.14.3"
+      "version": "8.14.5"
     }
   },
   "variants": [
@@ -27,7 +27,7 @@
           "group": "com.iproov.sdk",
           "module": "iproov",
           "version": {
-            "requires": "11.1.0"
+            "requires": "11.1.1"
           }
         },
         {
@@ -42,11 +42,11 @@
         {
           "name": "iproovsdk-1.2.2.aar",
           "url": "iproovsdk-1.2.2.aar",
-          "size": 330385,
-          "sha512": "888eb980acba7459b7a4e898102a6b026e86a5f647d4456c7a5ea803bead80ea403d2fad9fd1606a4e9c395ef32c0ee6b31afad702a15a5ed9f4f7f10f12aee3",
-          "sha256": "8bb6a622870a8ef9dc4c7b47ea8df1c1b782dfa0b6c999a68807d072b0e47a66",
-          "sha1": "97f800a551206a05b1f335c29905e281ffd8153f",
-          "md5": "b31a3a408881aa7d2a9eaa3134ff3771"
+          "size": 335463,
+          "sha512": "86068b9fe4b11e199680379780fee147c44d83afcf2fba58471210d7948b45baf3ae0a907d606f3dd6d7311c35c7be565318f0bd1590fac6bc6275906f618702",
+          "sha256": "38dd7c47aa41bf04c609642d72c2a15c2b70caf7890ea9cbade269698d4d1a4b",
+          "sha1": "d8a55eb10374a11dc653809dbcac13d686843988",
+          "md5": "0df3fee6a1d2b917993a981307865c98"
         }
       ]
     },
@@ -268,7 +268,7 @@
           "group": "com.iproov.sdk",
           "module": "iproov",
           "version": {
-            "requires": "11.1.0"
+            "requires": "11.1.1"
           }
         },
         {
@@ -283,11 +283,11 @@
         {
           "name": "iproovsdk-1.2.2.aar",
           "url": "iproovsdk-1.2.2.aar",
-          "size": 330385,
-          "sha512": "888eb980acba7459b7a4e898102a6b026e86a5f647d4456c7a5ea803bead80ea403d2fad9fd1606a4e9c395ef32c0ee6b31afad702a15a5ed9f4f7f10f12aee3",
-          "sha256": "8bb6a622870a8ef9dc4c7b47ea8df1c1b782dfa0b6c999a68807d072b0e47a66",
-          "sha1": "97f800a551206a05b1f335c29905e281ffd8153f",
-          "md5": "b31a3a408881aa7d2a9eaa3134ff3771"
+          "size": 335463,
+          "sha512": "86068b9fe4b11e199680379780fee147c44d83afcf2fba58471210d7948b45baf3ae0a907d606f3dd6d7311c35c7be565318f0bd1590fac6bc6275906f618702",
+          "sha256": "38dd7c47aa41bf04c609642d72c2a15c2b70caf7890ea9cbade269698d4d1a4b",
+          "sha1": "d8a55eb10374a11dc653809dbcac13d686843988",
+          "md5": "0df3fee6a1d2b917993a981307865c98"
         }
       ]
     },
