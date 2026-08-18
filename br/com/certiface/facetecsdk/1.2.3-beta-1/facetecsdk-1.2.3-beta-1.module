@@ -1,0 +1,322 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "br.com.certiface",
+    "module": "facetecsdk",
+    "version": "1.2.3-beta-1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.14.5"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "com.facetec",
+          "module": "sdk",
+          "version": {
+            "requires": "9.7.135"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.0.21"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "facetecsdk-1.2.3-beta-1.aar",
+          "url": "facetecsdk-1.2.3-beta-1.aar",
+          "size": 612755,
+          "sha512": "d864167c6b9c7352cac9a2261f3fb50d00950bde6861d96b96c2e1ecb6fab104a55da406b6fab440e97e18993af264b28de5405bbf8375acd2fa0ac4495d138f",
+          "sha256": "0c9545b0842d9620b875caa9d6b9e479ac36391da124b1d9b1dc9d91f4213a3d",
+          "sha1": "05e521a9aefb5f40e1cb33bb9955644c1150da7d",
+          "md5": "6f9f4d6a53d42ac779d437248f0af75c"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "androidx.core",
+          "module": "core-ktx",
+          "version": {
+            "requires": "1.17.0"
+          }
+        },
+        {
+          "group": "androidx.appcompat",
+          "module": "appcompat",
+          "version": {
+            "requires": "1.7.1"
+          }
+        },
+        {
+          "group": "com.google.android.material",
+          "module": "material",
+          "version": {
+            "requires": "1.13.0"
+          }
+        },
+        {
+          "group": "androidx.lifecycle",
+          "module": "lifecycle-runtime-ktx",
+          "version": {
+            "requires": "2.9.4"
+          }
+        },
+        {
+          "group": "androidx.compose.ui",
+          "module": "ui-graphics"
+        },
+        {
+          "group": "com.google.android.gms",
+          "module": "play-services-location",
+          "version": {
+            "requires": "21.3.0"
+          }
+        },
+        {
+          "group": "com.google.dagger",
+          "module": "dagger",
+          "version": {
+            "requires": "2.57.1"
+          }
+        },
+        {
+          "group": "com.google.dagger",
+          "module": "dagger-android",
+          "version": {
+            "requires": "2.57.1"
+          }
+        },
+        {
+          "group": "com.google.dagger",
+          "module": "dagger-android-support",
+          "version": {
+            "requires": "2.57.1"
+          }
+        },
+        {
+          "group": "com.squareup.retrofit2",
+          "module": "retrofit",
+          "version": {
+            "requires": "3.0.0"
+          }
+        },
+        {
+          "group": "com.squareup.retrofit2",
+          "module": "converter-gson",
+          "version": {
+            "requires": "3.0.0"
+          }
+        },
+        {
+          "group": "com.squareup.okhttp3",
+          "module": "okhttp",
+          "version": {
+            "requires": "4.12.0"
+          }
+        },
+        {
+          "group": "com.squareup.okhttp3",
+          "module": "logging-interceptor",
+          "version": {
+            "requires": "4.12.0"
+          }
+        },
+        {
+          "group": "androidx.compose",
+          "module": "compose-bom",
+          "version": {
+            "requires": "2025.11.00"
+          },
+          "attributes": {
+            "org.gradle.category": "platform"
+          }
+        },
+        {
+          "group": "androidx.compose.runtime",
+          "module": "runtime"
+        },
+        {
+          "group": "androidx.compose.runtime",
+          "module": "runtime-livedata"
+        },
+        {
+          "group": "androidx.compose.runtime",
+          "module": "runtime-rxjava2"
+        },
+        {
+          "group": "androidx.compose.ui",
+          "module": "ui",
+          "version": {
+            "requires": "1.9.1"
+          }
+        },
+        {
+          "group": "androidx.compose.material",
+          "module": "material",
+          "version": {
+            "requires": "1.9.1"
+          }
+        },
+        {
+          "group": "androidx.compose.ui",
+          "module": "ui-tooling-preview",
+          "version": {
+            "requires": "1.9.1"
+          }
+        },
+        {
+          "group": "androidx.navigation",
+          "module": "navigation-compose",
+          "version": {
+            "requires": "2.9.4"
+          }
+        },
+        {
+          "group": "androidx.activity",
+          "module": "activity-compose",
+          "version": {
+            "requires": "1.11.0"
+          }
+        },
+        {
+          "group": "androidx.lifecycle",
+          "module": "lifecycle-runtime-compose",
+          "version": {
+            "requires": "2.9.4"
+          }
+        },
+        {
+          "group": "androidx.lifecycle",
+          "module": "lifecycle-viewmodel-compose",
+          "version": {
+            "requires": "2.9.4"
+          }
+        },
+        {
+          "group": "androidx.compose.material3",
+          "module": "material3"
+        },
+        {
+          "group": "com.google.accompanist",
+          "module": "accompanist-permissions",
+          "version": {
+            "requires": "0.37.3"
+          }
+        },
+        {
+          "group": "br.com.certiface",
+          "module": "di",
+          "version": {
+            "requires": "1.2.3-beta-1"
+          }
+        },
+        {
+          "group": "br.com.certiface",
+          "module": "core",
+          "version": {
+            "requires": "1.2.3-beta-1"
+          }
+        },
+        {
+          "group": "br.com.certiface",
+          "module": "domain",
+          "version": {
+            "requires": "1.2.3-beta-1"
+          }
+        },
+        {
+          "group": "br.com.certiface",
+          "module": "designsystem",
+          "version": {
+            "requires": "1.2.3-beta-1"
+          }
+        },
+        {
+          "group": "br.com.certiface",
+          "module": "logging",
+          "version": {
+            "requires": "1.2.3-beta-1"
+          }
+        },
+        {
+          "group": "br.com.certiface",
+          "module": "utils",
+          "version": {
+            "requires": "1.2.3-beta-1"
+          }
+        },
+        {
+          "group": "com.facetec",
+          "module": "sdk",
+          "version": {
+            "requires": "9.7.135"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.0.21"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "facetecsdk-1.2.3-beta-1.aar",
+          "url": "facetecsdk-1.2.3-beta-1.aar",
+          "size": 612755,
+          "sha512": "d864167c6b9c7352cac9a2261f3fb50d00950bde6861d96b96c2e1ecb6fab104a55da406b6fab440e97e18993af264b28de5405bbf8375acd2fa0ac4495d138f",
+          "sha256": "0c9545b0842d9620b875caa9d6b9e479ac36391da124b1d9b1dc9d91f4213a3d",
+          "sha1": "05e521a9aefb5f40e1cb33bb9955644c1150da7d",
+          "md5": "6f9f4d6a53d42ac779d437248f0af75c"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "facetecsdk-1.2.3-beta-1-sources.jar",
+          "url": "facetecsdk-1.2.3-beta-1-sources.jar",
+          "size": 120503,
+          "sha512": "e60211926f20e15d1fa12ebf51b4136b428631005b3c3716621e9bba6598dc3773a815a704cc21f057381ca78b3d6a02cfc4b89cf7f69c04007eef5916a81916",
+          "sha256": "175c14b34d190e68301511f4e889b6b1787df7b9cb6ff5cf6894a074a8f73b65",
+          "sha1": "f362bac60858094e5cbe3c7062603a7995bba5ab",
+          "md5": "344a6f7a68b38dbd9d9adb2abc1d5a5d"
+        }
+      ]
+    }
+  ]
+}
