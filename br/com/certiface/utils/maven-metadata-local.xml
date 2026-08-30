@@ -3,8 +3,8 @@
   <groupId>br.com.certiface</groupId>
   <artifactId>utils</artifactId>
   <versioning>
-    <latest>2.0.3-beta-2</latest>
-    <release>2.0.3-beta-2</release>
+    <latest>2.0.4-beta</latest>
+    <release>2.0.4-beta</release>
     <versions>
       <version>1.1.0-snapshot-2</version>
       <version>1.2.0</version>
@@ -45,7 +45,8 @@
       <version>2.0.3</version>
       <version>2.0.3-beta</version>
       <version>2.0.3-beta-2</version>
+      <version>2.0.4-beta</version>
     </versions>
-    <lastUpdated>20260826174215</lastUpdated>
+    <lastUpdated>20260830205555</lastUpdated>
   </versioning>
 </metadata>
